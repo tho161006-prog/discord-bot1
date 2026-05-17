@@ -1,1 +1,2 @@
-# discord-bot1
+node_modules
+.env
